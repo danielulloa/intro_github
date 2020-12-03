@@ -5,3 +5,6 @@ Este es un repositorio de pruebas.
 * subir archivos
 * modificar un script
 * etc
+
+## errores
+se corrigió el funcionamiento principal del programa
